@@ -27,7 +27,7 @@ WidgetMetadata = {
     description: "关于学习那点事",
     author: "破壳日",
     site: "https://hanime1.me",
-    iconurl: "https://assets.rexnow.tv/scripts/rex-icon.png",
+    iconurl: "https://raw.githubusercontent.com/dstudyb/Introduction/main/icon/H.png",
     detailCacheDuration: 300,
     search: {
         title: "快捷搜索",
