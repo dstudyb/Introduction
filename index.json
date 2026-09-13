@@ -1,0 +1,33 @@
+{
+  "updated": "2026-09-13",
+  "count": 2,
+  "base": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/",
+  "items": [
+    {
+      "id": "20250228ye1",
+      "file": "nfo/20250228ye1.nfo",
+      "url": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/20250228ye1.nfo",
+      "title": "野野原柚花的秘密直播 1",
+      "originaltitle": "OVA 野々原柚花のヒミツのハイシン ＃1",
+      "year": "2025",
+      "premiered": "2025-02-28",
+      "keys": [
+        "野野原柚花的秘密直播1",
+        "ova野々原柚花のヒミツのハイシン#1"
+      ]
+    },
+    {
+      "id": "20250228ye2",
+      "file": "nfo/20250228ye2.nfo",
+      "url": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/20250228ye2.nfo",
+      "title": "野野原柚花的秘密直播 2",
+      "originaltitle": "OVA 野々原柚花のヒミツのハイシン ＃2",
+      "year": "2025",
+      "premiered": "2025-02-28",
+      "keys": [
+        "野野原柚花的秘密直播2",
+        "ova野々原柚花のヒミツのハイシン#2"
+      ]
+    }
+  ]
+}
