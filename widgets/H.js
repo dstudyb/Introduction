@@ -21,12 +21,13 @@ const TAG_POS_ITEMS = [{title:"手交",value:"手交"}, {title:"指交",value:"�
 
 WidgetMetadata = {
     id: "hanime1.xuexi",
-    title: "hanime1",
+    title: "H",
+    version: "1.0.3",
+    requiredVersion: "0.0.1",
     description: "关于学习那点事",
     author: "破壳日",
     site: "https://hanime1.me",
-    version: "1.0.3",
-    requiredVersion: "0.0.1",
+    iconurl: "https://assets.rexnow.tv/scripts/rex-icon.png",
     detailCacheDuration: 300,
     search: {
         title: "快捷搜索",
