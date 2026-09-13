@@ -1,0 +1,28 @@
+name: Sync manifest
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # 每天 UTC 03:00
+  workflow_dispatch:          # 也支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch manifest
+        run: curl -fsSL "https://img.solaris.kdns.fr/i/_index/manifest.json" -o manifest.json
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          if git diff --cached --quiet; then
+            echo "索引无变化"
+          else
+            git commit -m "chore: sync manifest"
+            git push
+          fi
