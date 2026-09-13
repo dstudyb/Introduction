@@ -1,0 +1,15 @@
+{
+  "title": "Rex 官方模块",
+  "description": "Rex 官方维护的推荐模块合集",
+  "icon": "https://assets.rexnow.tv/scripts/rex-icon.png",
+  "widgets": [
+    {
+      "id": "hanime1.xuexi",
+      "title": "H",
+      "version": "1.0.3",
+      "requiredVersion": "0.0.1",
+      "description": "关于学习那点事",
+      "author": "破壳日",
+      "url": "https://assets.rexnow.tv/scripts/rex-tmdb.js"
+    }
+}
