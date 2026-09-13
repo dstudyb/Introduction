@@ -1,8 +1,34 @@
 {
   "updated": "2026-09-13",
-  "count": 2,
+  "count": 4,
   "base": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/",
   "items": [
+    {
+      "id": "20250228tan1",
+      "file": "nfo/20250228tan1.nfo",
+      "url": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/20250228tan1.nfo",
+      "title": "探索歡愛新境界 1",
+      "originaltitle": "知らないこと知りたいの？ THE ANIMATION 第1巻",
+      "year": "2025",
+      "premiered": "2025-02-28",
+      "keys": [
+        "探索歡愛新境界1",
+        "知らないこと知りたいのtheanimation第1巻"
+      ]
+    },
+    {
+      "id": "20250228tan2",
+      "file": "nfo/20250228tan2.nfo",
+      "url": "https://raw.githubusercontent.com/dstudyb/Introduction/main/nfo/20250228tan2.nfo",
+      "title": "探索歡愛新境界 2",
+      "originaltitle": "知らないこと知りたいの？ THE ANIMATION 第2巻",
+      "year": "2025",
+      "premiered": "2025-02-28",
+      "keys": [
+        "探索歡愛新境界2",
+        "知らないこと知りたいのtheanimation第2巻"
+      ]
+    },
     {
       "id": "20250228ye1",
       "file": "nfo/20250228ye1.nfo",
